@@ -2,7 +2,7 @@
 
 How to run
 
-first clone the repo
+    first clone the repo
 open in vscode
 open 3 terminals
 cd frontend>npm run dev 
